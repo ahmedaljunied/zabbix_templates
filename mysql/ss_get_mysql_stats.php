@@ -3,7 +3,7 @@
 # ============================================================================
 # This program is part of Percona Monitoring Plugins
 # License: GPL License (see COPYING)
-# Copyright 2008-2016 Baron Schwartz, 2012-2016 Percona
+# Copyright 2008-2017 Baron Schwartz, 2012-2017 Percona
 # Authors:
 #  Baron Schwartz, Roman Vynar
 # ============================================================================
@@ -61,7 +61,7 @@ $debug_log = FALSE; # If $debug_log is a filename, it'll be used.
 # ============================================================================
 # You should not need to change anything below this line.
 # ============================================================================
-$version = '1.1.7';
+$version = '1.1.6';
 
 # ============================================================================
 # Include settings from an external config file.
