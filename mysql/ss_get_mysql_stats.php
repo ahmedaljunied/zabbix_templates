@@ -27,8 +27,8 @@ if ( !array_key_exists('SCRIPT_FILENAME', $_SERVER)
 # here, you can define them in another file named the same as this file, with a
 # .cnf extension.
 # ============================================================================
-$mysql_user = 'cactiuser';
-$mysql_pass = 'cactiuser';
+$mysql_user = 'zabbixuser';
+$mysql_pass = 'zabbixpassword';
 $mysql_port = 3306;
 $mysql_socket = NULL;
 $mysql_flags = 0;
